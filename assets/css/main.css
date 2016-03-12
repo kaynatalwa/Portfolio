@@ -1974,6 +1974,13 @@
 
 		}
 
+		 .link{
+                	color: white;
+                	text-decoration: underline;
+                	
+
+                }
+
 /* Footer */
 
 	#footer .copyright {
